@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+sqlalchemy
+pydantic
+python-multipart
+scikit-fuzzy
+scipy
+pandas
+numpy
+httpx
+ollama
+python-dotenv
+networkx
